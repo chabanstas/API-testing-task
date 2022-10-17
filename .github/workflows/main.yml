@@ -13,7 +13,7 @@ jobs:
     # Install Node on the runner
       - name: Install Node
       - uses: actions/setup-node@v1
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/setup-node@v1-beta
         with:
           node-version: "16.x"
           
