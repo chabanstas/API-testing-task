@@ -24,8 +24,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      #- uses: actions/checkout@main
-      - uses: matt-ball/newman-action@main
         with:
           environment: https://www.getpostman.com/collections/1a0600aa232bbff00318
           
