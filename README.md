@@ -26,3 +26,6 @@ Examples with different actions in Postman workspace (only take a look once, no 
 
 Doc for json schema validation, to check output API response (only take a look once, no need to learn this doc) 
 - <a href="https://json-schema.org"> json schema docs </a>
+
+Running Postman Collection with GitHub Actions Workflow
+- <a href="https://www.lftechnology.com/blog/product-management/running-postman-collection-github-actions-workflow/" >Running Postman Collection with GitHub Actions Workflow </a>
